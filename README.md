@@ -18,6 +18,14 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+![WhatsApp Image 2025-11-17 at 12 57 45 AM](https://github.com/user-attachments/assets/1649740d-6af1-4371-a4b8-1d8daf417c69)
+![WhatsApp Image 2025-11-17 at 12 57 46 AM](https://github.com/user-attachments/assets/cd841cf5-a3e1-42df-a026-1efe255b7a02)
+![WhatsApp Image 2025-11-17 at 12 57 46 AM](https://github.com/user-attachments/assets/673d0cdc-c7ca-4b74-a755-b5d13721ced5)
+<img width="1037" height="587" alt="bee51" src="https://github.com/user-attachments/assets/a4dc2382-b10d-472e-8205-8f68e27c447c" />
+
+<img width="1025" height="582" alt="bee52" src="https://github.com/user-attachments/assets/483ea1b3-8578-4347-a1db-6bc8f17fade2" />
+
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
@@ -26,3 +34,5 @@ PRECAUTION: -
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+
+
